@@ -1,5 +1,0 @@
-FilterType = Low pass
-FS = 8000
-StopBandAttenuation = 50
-FC = 1500
-TransitionBand = 500
